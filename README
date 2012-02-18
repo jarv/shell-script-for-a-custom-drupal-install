@@ -1,0 +1,3 @@
+Simple shell script for automating installing drupal core, a single module and creating a custom profile to get input during setup.
+
+See - http://jarv.org/2012/02/automating-drupal-7-installs-using-drush-and-install-profiles/
